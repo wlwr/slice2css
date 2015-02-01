@@ -11,8 +11,8 @@ slice2css 指定图片自动生成css样式
 ### 配置项 (config)
 
 	{
-		//图片目录
+		//指定图片文件
 		srcImg : 'slice/*',
-		//生成的css文件路径
+		//生成的css文件
 		destCss : './slice.css'
 	}

@@ -4,7 +4,7 @@
   "description": "slice2css",
   "main": "lib/index.js",
   "scripts": {
-    "test": "node test"
+    "test": "node test/test.js"
   },
   "repository": {
     "type": "git",
@@ -19,7 +19,7 @@
     "url": "https://github.com/wlwr/slice2css/issues"
   },
   "homepage": "https://github.com/wlwr/slice2css",
-  "devDependencies" : {
+  "dependencies" : {
     "async" : "*",
     "image-size" : "*",
     "glob" : "*",

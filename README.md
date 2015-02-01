@@ -1,2 +1,2 @@
-# slice2css
+# gulp-slice2css
 slice2css 

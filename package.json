@@ -1,0 +1,28 @@
+{
+  "name": "slice2css",
+  "version": "1.0.0",
+  "description": "slice2css",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wlwr/slice2css.git"
+  },
+  "keywords": [
+    "slice2css"
+  ],
+  "author": "wlwr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wlwr/slice2css/issues"
+  },
+  "homepage": "https://github.com/wlwr/slice2css",
+  "devDependencies" : {
+    "async" : "*",
+    "image-size" : "*",
+    "glob" : "*",
+    "dot" : "*"
+  }
+}
